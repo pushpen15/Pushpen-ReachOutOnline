@@ -54,11 +54,11 @@ function Home2() {
                 <b className="purple"> React.js </b>
               </i>
             </p>
+            
           </Col>
-          <Col md={4} className="myAvtar">
+          <Col md={4} className="" style={{marginTop:"8%"}}>
             <Tilt>
-  
-              <img src={myImg} className="img-fluid" alt="avatar" style={{borderRadius:"50%",}} />
+              <img src={myImg} className="img-fluid" alt="avatar" style={{width:"90%",borderRadius:"50%"}} />
             </Tilt>
           </Col>
         </Row>
@@ -120,7 +120,7 @@ function Home2() {
                 </a>
               </li>
 
-              
+             
               <li className="social-icons">
                 <a
                   href="https://api.whatsapp.com/send?phone=916264400848"
