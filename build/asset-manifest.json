@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d695d1c.css",
+    "main.js": "/static/js/main.35489587.js",
+    "static/js/415.8d6c1731.chunk.js": "/static/js/415.8d6c1731.chunk.js",
+    "static/js/787.b10564c5.chunk.js": "/static/js/787.b10564c5.chunk.js",
+    "static/media/myImage.jpg": "/static/media/myImage.1e0c5fd9f62bff6a028c.jpg",
+    "static/media/Pushpendra Mahajan cv.pdf": "/static/media/Pushpendra Mahajan cv.375171c83f197ce20ef9.pdf",
+    "static/media/ImReplicant.png": "/static/media/ImReplicant.2047ad13cdab96dcacc4.png",
+    "static/media/TaazaKhabar.png": "/static/media/TaazaKhabar.79893858263c04ad7d62.png",
+    "static/media/imageArt.png": "/static/media/imageArt.26988a10f27428fac04b.png",
+    "static/media/suicide.png": "/static/media/suicide.7a8b001c459d4ffdd426.png",
+    "static/media/CarPricePrediction.png": "/static/media/CarPricePrediction.a700d7e8faf1e9a1e1dc.png",
+    "static/media/emotion.png": "/static/media/emotion.d28e1bd95a3c66d8574a.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.ab8f5a262206bbe44973.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/home-main.png": "/static/media/home-main.06e3a5e8d4fbf49d5767.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.7d695d1c.css.map": "/static/css/main.7d695d1c.css.map",
+    "main.35489587.js.map": "/static/js/main.35489587.js.map",
+    "415.8d6c1731.chunk.js.map": "/static/js/415.8d6c1731.chunk.js.map",
+    "787.b10564c5.chunk.js.map": "/static/js/787.b10564c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d695d1c.css",
+    "static/js/main.35489587.js"
+  ]
+}
